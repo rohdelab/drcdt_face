@@ -3,7 +3,7 @@
 This repository contains the Python implementation of Dicrete RCDT transform and its application on illumination-invariant face recognition (paper link: https://arxiv.org/abs/2202.10642).
 
 
-# DRCDT-NS Classifier Demo
+# DRCDT-NS based Illumination-invariant Face Recognition Demo
 
 1. Download the The Extended Yale Face Database B from: http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html (Please use the "Cropped Images")
 2. Extract the folder to the local directory, the directory should have the structure as shown below:
