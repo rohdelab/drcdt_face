@@ -32,9 +32,9 @@ Local directory
 
 Please cite the following publication when publishing findings that benefit from the codes provided here.
 
-@article{zhuang2022local,
-  title={Local Sliced-Wasserstein Feature Sets for Illumination-invariant Face Recognition},
-  author={Zhuang, Yan and Li, Shiying and Yin, Xuwang and Rubaiyat, Abu Hasnat Mohammad and Rohde, Gustavo K and others},
-  journal={arXiv preprint arXiv:2202.10642},
-  year={2022}
+@article{zhuang2022local,  
+  title={Local Sliced-Wasserstein Feature Sets for Illumination-invariant Face Recognition},  
+  author={Zhuang, Yan and Li, Shiying and Yin, Xuwang and Rubaiyat, Abu Hasnat Mohammad and Rohde, Gustavo K and others},  
+  journal={arXiv preprint arXiv:2202.10642},  
+  year={2022}  
 }
