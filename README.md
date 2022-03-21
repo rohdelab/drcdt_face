@@ -1,6 +1,6 @@
 # Local Sliced-Wasserstein Feature Sets for Illumination-invariant Face Recognition
 
-This repository contains the Python implementation of Dicrete RCDT transform and its application on illumination-invariant face recognition (paper link: https://arxiv.org/abs/2202.10642). It is also a part of PyTransKit (https://github.com/rohdelab/PyTransKit).
+This repository contains the Python implementation of Dicrete RCDT transform and its application on illumination-invariant face recognition (paper link: https://arxiv.org/abs/2202.10642). It is also a part of PyTransKit (link: https://github.com/rohdelab/PyTransKit).
 
 
 # DRCDT-NS based Illumination-invariant Face Recognition Demo
