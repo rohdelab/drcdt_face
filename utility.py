@@ -1,14 +1,9 @@
-import cv2
 import numpy as np
 import re
 import os
 from os import listdir
 from os.path import isfile, join, isdir
-# from imutils import face_utils
-# from my_config import config as cfg
 import math
-from skimage import transform
-from tqdm import tqdm
 from skimage import io
 from skimage.color import rgb2gray
 from skimage.transform import resize
