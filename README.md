@@ -26,7 +26,8 @@ Local directory
 3. Run the Jupyter notebook: drcdt_yale_notebook.ipynb
 
 # Dependencies 
-1. Please see the "requirements.txt".
+
+Please see the "requirements.txt".
 
 # Citation
 
